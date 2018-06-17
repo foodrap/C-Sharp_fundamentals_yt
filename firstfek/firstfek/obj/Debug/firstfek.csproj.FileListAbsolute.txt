@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\firstfek\firstfek\bin\Debug\firstfek.exe.config
+C:\Users\Admin\source\repos\firstfek\firstfek\bin\Debug\firstfek.exe
+C:\Users\Admin\source\repos\firstfek\firstfek\bin\Debug\firstfek.pdb
+C:\Users\Admin\source\repos\firstfek\firstfek\obj\Debug\firstfek.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\firstfek\firstfek\obj\Debug\firstfek.exe
+C:\Users\Admin\source\repos\firstfek\firstfek\obj\Debug\firstfek.pdb
+C:\Users\Admin\source\repos\firstfek\firstfek\obj\Debug\firstfek.csprojAssemblyReference.cache
